@@ -22,7 +22,7 @@ pinout:
   ui[4]: "q0"
   ui[5]: "q1"
   ui[6]: "q2"
-  ui[7]: ""
+  ui[7]: "unused"
 
   # Outputs
   uo[0]: "F0"
